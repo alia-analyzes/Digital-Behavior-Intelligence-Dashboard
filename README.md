@@ -1,5 +1,5 @@
 ## Digital-Behavior-Intelligence-Dashboard
-#Project Overview
+## Project Overview
 
 The Digital Behavior Intelligence Dashboard is an interactive Excel-based analytics project built using real-time personal digital activity data collected over a 7-day period.
 
