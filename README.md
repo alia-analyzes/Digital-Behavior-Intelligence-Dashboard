@@ -29,3 +29,14 @@ The main objective of this project is to:
 - 🎮 Entertainment Usage	Time- spent on entertainment apps
 - 📈 Daily Activity Trend-	Daily variation in digital activity
 - 📊 App Usage Distribution-	Distribution of usage across different app categories
+
+ 
+ ## 🛠 Tools & Technologies Used 
+-Microsoft Excel
+-Pivot Tables
+-Pivot Charts
+-KPI Cards
+-Conditional Formatting
+-Interactive Slicers
+-Data Cleaning & Transformation
+-Dashboard Design Principles
