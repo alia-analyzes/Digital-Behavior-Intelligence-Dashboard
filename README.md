@@ -6,3 +6,13 @@ The Digital Behavior Intelligence Dashboard is an interactive Excel-based analyt
 Unlike traditional dashboards based on public datasets such as Netflix, Spotify, or Sales Analytics, this project focuses on analyzing everyday smartphone behavior to uncover insights related to productivity, focus, engagement, and digital habits.
 
 The dashboard transforms raw digital activity into meaningful analytical insights through KPI tracking, behavioral analysis, and data visualization.
+
+## Project Objective
+
+The main objective of this project is to:
+
+Analyze daily digital behavior patterns
+Measure productivity vs entertainment usage
+Understand notification and pickup impact on focus
+Build an interactive Excel dashboard using real behavioral data
+Apply data storytelling and KPI engineering techniques
