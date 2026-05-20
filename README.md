@@ -18,8 +18,7 @@ The main objective of this project is to:
 
 ## 📂 Dataset Information
 - <a href="https://github.com/alia-analyzes/Digital-Behavior-Intelligence-Dashboard/blob/main/Screen%20Time%20Tracker%20Data%20Final.xlsx">Dataset</a>
-
-- The dataset used in this project was self-collected from real smartphone activity over a 7-day period.
+The dataset used in this project was self-collected from real smartphone activity over a 7-day period.
 
 - Data collected includes:
 - Screen time
@@ -27,11 +26,10 @@ The main objective of this project is to:
 - Notifications received
 - Device pickups
 - Productive vs entertainment categorization
+This makes the project unique because all insights are generated from real behavioral data instead of pre-built public datasets.
 
-- This makes the project unique because all insights are generated from real behavioral data instead of pre-built public datasets.
+## Key KPIs Used
 
-# Key KPIs Used
-## KPI	Description
 - ⏱ Total Screen Time-	Total amount of device usage recorded over 7 days
 - 📅 Average Daily Usage-	Average screen time per day
 - 📲 Total Device Pickups-	Number of times the phone was picked up
