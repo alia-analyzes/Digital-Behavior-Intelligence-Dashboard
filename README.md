@@ -18,3 +18,14 @@ The main objective of this project is to:
 
 ## Dataset Used - 
 - <a href="https://github.com/alia-analyzes/Digital-Behavior-Intelligence-Dashboard/blob/main/Screen%20Time%20Tracker%20Data%20Final.xlsx">Dataset</a>
+
+# Key KPIs Used
+## KPI	Description
+- ⏱ Total Screen Time	Total amount of device usage recorded over 7 days
+- 📅 Average Daily Usage	Average screen time per day
+- 📲 Total Device Pickups	Number of times the phone was picked up
+- 🔔 Total Notifications	Total notifications received
+- 🎯 Productivity Ratio	Percentage of productive usage compared to total usage
+- 🎮 Entertainment Usage	Time spent on entertainment apps
+- 📈 Daily Activity Trend	Daily variation in digital activity
+- 📊 App Usage Distribution	Distribution of usage across different app categories
