@@ -10,8 +10,8 @@ The dashboard transforms raw digital activity into meaningful analytical insight
 ## Project Objective
 
 The main objective of this project is to:
-Analyze daily digital behavior patterns
-Measure productivity vs entertainment usage
-Understand notification and pickup impact on focus
-Build an interactive Excel dashboard using real behavioral data
-Apply data storytelling and KPI engineering techniques
+- Analyze daily digital behavior patterns
+- Measure productivity vs entertainment usage
+- Understand notification and pickup impact on focus
+- Build an interactive Excel dashboard using real behavioral data
+- Apply data storytelling and KPI engineering techniques
