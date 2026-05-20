@@ -32,11 +32,12 @@ The main objective of this project is to:
 
  
  ## 🛠 Tools & Technologies Used 
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--KPI Cards
--Conditional Formatting
--Interactive Slicers
--Data Cleaning & Transformation
--Dashboard Design Principles
+ 
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Conditional Formatting
+- Interactive Slicers
+- Data Cleaning & Transformation
+- Dashboard Design Principles
