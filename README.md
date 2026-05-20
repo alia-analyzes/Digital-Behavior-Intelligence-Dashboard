@@ -62,3 +62,4 @@ This makes the project unique because all insights are generated from real behav
 - Daily digital activity patterns revealed behavioral consistency across the week.
 
 ## 📸 Dashboard Preview
+<img width="1601" height="746" alt="Dashboard Picture" src="https://github.com/user-attachments/assets/d9eab5ec-12a9-449a-b29b-748ccb425e79" />
