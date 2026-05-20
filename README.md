@@ -7,7 +7,7 @@ Unlike traditional dashboards based on public datasets such as Netflix, Spotify,
 
 The dashboard transforms raw digital activity into meaningful analytical insights through KPI tracking, behavioral analysis, and data visualization.
 
-## Project Objective
+## 📊 Project Objective
 
 The main objective of this project is to:
 - Analyze daily digital behavior patterns
@@ -52,3 +52,13 @@ This makes the project unique because all insights are generated from real behav
 - Interactive Slicers
 - Data Cleaning & Transformation
 - Dashboard Design Principles
+
+ ## 💡 Key Insights & Findings
+
+- Higher notification frequency was directly associated with increased device pickups.
+- Increased pickups showed a noticeable reduction in productivity and focus.
+- Entertainment app usage contributed significantly to total screen time.
+- Productive app usage remained more consistent during focused hours.
+- Daily digital activity patterns revealed behavioral consistency across the week.
+
+## 📸 Dashboard Preview
